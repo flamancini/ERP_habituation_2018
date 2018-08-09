@@ -1,5 +1,5 @@
 # ERP_habituation
-ERP habituation modelling code and data relative to:
+ERP habituation modelling code relative to:
 
 Mancini F, Pepe A, Bernacchia A, Di Stefano G, Mouraux A, Iannetti GD. (2018)
 Characterising the short-term habituation of event-related evoked potentials.
@@ -8,7 +8,7 @@ eNeuro
 Written in Matlab R2016b by F Mancini, fm456@cam.ac.uk
 
 
-The script to perform a point-by-point, one-sample Wilcoxon signed-rank test of EEG waveforms is 'wilcoxon_clustercorr.m'. Please see details at the beginning of the code.
+'wilcoxon_clustercorr.m' performs a point-by-point, one-sample Wilcoxon signed-rank test of EEG waveforms is. Please see details at the beginning of the code.
 
 The script to model the habituation of EEG data is 'svd_analysis.m'. It requires the Curve Fitting Toolbox in Matlab.
 
@@ -23,3 +23,5 @@ The script to model the habituation of EEG data is 'svd_analysis.m'. It requires
 7. Make figures of SVD results
 
 For more details see comments embedded in 'svd_analysis.m'
+
+Preprocessed EEG data are available at 
