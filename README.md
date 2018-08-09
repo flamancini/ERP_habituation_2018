@@ -24,4 +24,4 @@ The script to model the habituation of EEG data is 'svd_analysis.m'. It requires
 
 For more details see comments embedded in 'svd_analysis.m'
 
-Preprocessed EEG data are available at 
+Preprocessed EEG data are available at https://osf.io/8wj3s/
