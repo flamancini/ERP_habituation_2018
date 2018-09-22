@@ -3,7 +3,8 @@ ERP habituation modelling code relative to:
 
 Mancini F, Pepe A, Bernacchia A, Di Stefano G, Mouraux A, Iannetti GD. (2018)
 Characterising the short-term habituation of event-related evoked potentials.
-eNeuro
+eNeuro  ENEURO.0014-18.2018; DOI: https://doi.org/10.1523/ENEURO.0014-18.2018
+http://www.eneuro.org/content/early/2018/09/06/ENEURO.0014-18.2018
 
 Written in Matlab R2016b by F Mancini, fm456@cam.ac.uk
 
